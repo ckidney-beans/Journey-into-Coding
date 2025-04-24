@@ -3,6 +3,7 @@ title: index.md
 draft: false
 tags:
   - example-tag
+hide_title: "true"
 ---
 ## A Middle-Aged ADHD Adventure into Programming
 
