@@ -1,5 +1,5 @@
 ---
-title: index.md
+title: Welcome
 draft: false
 tags:
   - example-tag
