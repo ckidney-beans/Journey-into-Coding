@@ -56,6 +56,6 @@ Currently, I'm in the "everything is both exciting and overwhelming" phase. Chec
 
 Whether you're a seasoned developer who wants to watch this journey with amusement, a fellow learner looking for solidarity, or just my mom checking to see if I'm sticking with my new hobby (hi Mom!), feel free to follow along.
 
-Remember: Gardens grow with time, attention, and the occasional desperate Stack Overflow search at 2 AM.
+Remember: Gardens grow with time, attention, and the occasional desperate AI searches for debugging.
 
 *Last updated: April 24, 2025*
