@@ -1,11 +1,3 @@
----
-title: welcome
-draft: false
-tags:
-  - home
-  - welcome
-  - coding
----
 ## A Middle-Aged ADHD Adventure into Programming
 
 Hello there, fellow internet wanderer! You've stumbled upon my digital garden—a living, growing collection of my journey into the wonderful (and occasionally terrifying) world of coding. This isn't one of those perfectly manicured gardens with everything in its right place. It's more like that community garden plot where sometimes things flourish unexpectedly and other times the squirrels make off with your prized tomatoes.
