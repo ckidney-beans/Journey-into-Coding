@@ -11,6 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
+    baseUrl: ckidney-beans.github.io/quartz/Welcome.md
     enablePopovers: true,
     analytics: {
       provider: "plausible",
