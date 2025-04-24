@@ -13,7 +13,7 @@ Hello there, fellow internet wanderer! You've stumbled upon my digital garden—
 
 ### Why Am I Doing This?
 
-Great question! As a middle-aged person with ADHD, I've discovered that:
+Great question! As a middle-aged person with [[ADHD]], I've discovered that:
 
 1. My brain craves new challenges
 2. I forget things approximately 37 seconds after learning them
@@ -24,18 +24,18 @@ This site serves as both my learning journal and my accountability buddy. If I d
 ### The Grand Master Plan
 
 **Short-term Goal:**
-Become decent with Python—decent enough to write basic to intermediate programs without having to Google "how to print hello world" every time. (No judgment if you do this too.)
+Become decent with [[Python]]—decent enough to write basic to intermediate programs without having to Google "how to print hello world" every time. (No judgment if you do this too.)
 
 **Long-term Goal:**
-Conquer the full stack of web development and design, eventually building this very site from scratch. Yes, that means one day this Jekyll/GitHub Pages setup will be replaced by my own creation. (Future me, if you're reading this and still haven't done it, GET BACK TO WORK.)
+Conquer the full stack of web development and design, eventually building this very site from scratch. Yes, that means one day this [[GitHub Pages]] setup will be replaced by my own creation. (Future me, if you're reading this and still haven't done it, GET BACK TO WORK.)
 
 ### My Learning Arsenal
 
 I'm arming myself with these excellent resources:
 
-* **Code with Mosh** - Where I nod along confidently until I realize I have no idea what just happened
-* **Code Wars** - Where I experience the full emotional range from "I am a coding genius" to "I should never be allowed near a computer again" in 20-minute intervals
-* **CSS Battle** - Where I discover that moving something 2 pixels to the left takes 47 lines of code and a sacrifice to the styling gods
+* **[[Code with Mosh]]** - Where I nod along confidently until I realize I have no idea what just happened
+* **[[Code Wars]]** - Where I experience the full emotional range from "I am a coding genius" to "I should never be allowed near a computer again" in 20-minute intervals
+* **[[CSS Battle]]** - Where I discover that moving something 2 pixels to the left takes 47 lines of code and a sacrifice to the styling gods
 * **Various documentation sites** - Where I pretend to understand what I'm reading
 
 ### What You'll Find Here

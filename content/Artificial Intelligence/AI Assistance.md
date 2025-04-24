@@ -2,7 +2,7 @@
 title: AI Assistance
 draft: false
 tags:
-  - example-tag
+  - python
 ---
 One thing I have started to use more often is the resource of AI in assistance with research and studying.  I often have it generate reference sheets for me for a quite reference to key and core content.
 

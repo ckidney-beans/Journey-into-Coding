@@ -3,6 +3,7 @@ title: Python Built-in Functions
 tags:
   - python
   - functions
+  - cheatsheet
 ---
 
 # Python Built-in Functions Reference
