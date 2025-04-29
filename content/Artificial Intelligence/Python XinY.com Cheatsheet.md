@@ -7,6 +7,8 @@ tags:
 ---
 ## 1. Primitive Datatypes and Operators
 
+
+
 ### Numbers and Math
 ```python
 # You have numbers
