@@ -1,6 +1,6 @@
 ---
 title: Learning how to type again
-draft: true
+draft: false
 tags:
   - typing
   - keyboards
