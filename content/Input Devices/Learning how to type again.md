@@ -24,17 +24,17 @@ Just a couple of weeks ago, I leveled up to an Epomaker X Aula 75. This reasonab
 
 And now, we arrive at my latest acquisition—the YMDK SZR36. This keyboard showed up from China in a mysterious unmarked cardboard box, with exactly zero documentation. For the uninitiated who might wonder why a keyboard needs a manual: this isn't just any keyboard. It's this bizarre contraption:
 
-![[split_keyboard.jpeg]]
+![YMDK SZR36](/Files/split_keyboard.jpeg)
 
 Yes, friends, this is a 36-key keyboard. That means I barely have enough keys for the alphabet, let alone numbers or symbols. To use it properly, I need to employ layers, combos, and double-function keys like I'm playing keyboard 4D chess. Here's what my Numbers/Symbols layer looks like:
 
-![[nav_layer.jpg]]
+![Number/Symbols Layer](/Files/nav_layer.jpg)
 
 Switching to this keyboard has been... an adventure. Like many in my generation, I never properly learned to touch type. Sure, I can type without looking at the keyboard, but I've never used the "correct" fingers for each key, and I've never been setting any speed records.
 
 So naturally, I've decided to torture myself further by practicing typing THREE times a day for the next 30 days, meticulously recording my progress (or lack thereof). Current results are not exactly LinkedIn-worthy:
 
-![[screenshot_29042025_082726.jpg]]
+![Typing Test](/Files/screenshot_29042025_082726.jpg))
 
 I'm using a website called [monkeytype](monkeytype.com) to track my journey from keyboard catastrophe to... well, hopefully something better.
 
